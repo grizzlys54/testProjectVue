@@ -31,6 +31,7 @@ export default {
       
       this.dateFactHome = "Random date: " + dateToShow.getFullYear() + "/" + dateToShow.getMonth() + "/" + dateToShow.getDate();
       this.factHome = "In " + data.year + ", " + data.text
+      test()
     }
   }
 };
